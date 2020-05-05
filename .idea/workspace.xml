@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c08d7bf-9716-484c-bb83-4a8b5a59a384" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/forecast.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output1.html" beforeDir="false" afterPath="$PROJECT_DIR$/output1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scrape.py" beforeDir="false" afterPath="$PROJECT_DIR$/scrape.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,13 +22,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bVHuGiUcArHRiRm5b74X8gU5vy" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -104,18 +105,27 @@
       <option name="project" value="LOCAL" />
       <updated>1588710609216</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add html">
+      <created>1588720001534</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588720001534</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="add html" />
+    <option name="LAST_COMMIT_MESSAGE" value="add html" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="166" y="42" key="CommitChangelistDialog2" timestamp="1588710609033">
+    <state x="166" y="42" key="CommitChangelistDialog2" timestamp="1588720001423">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
-    <state x="166" y="42" key="CommitChangelistDialog2/0.23.1680.972@0.23.1680.972" timestamp="1588710609033" />
+    <state x="166" y="42" key="CommitChangelistDialog2/0.23.1680.972@0.23.1680.972" timestamp="1588720001423" />
     <state width="1254" height="190" key="GridCell.Tab.0.bottom" timestamp="1588719991957">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
@@ -136,10 +146,10 @@
       <screen x="0" y="23" width="1680" height="972" />
     </state>
     <state x="146" y="94" key="SettingsEditor/0.23.1680.972@0.23.1680.972" timestamp="1588710794375" />
-    <state x="133" y="178" key="Vcs.Push.Dialog.v2" timestamp="1588719995614">
+    <state x="133" y="178" key="Vcs.Push.Dialog.v2" timestamp="1588720006052">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
-    <state x="133" y="178" key="Vcs.Push.Dialog.v2/0.23.1680.972@0.23.1680.972" timestamp="1588719995614" />
+    <state x="133" y="178" key="Vcs.Push.Dialog.v2/0.23.1680.972@0.23.1680.972" timestamp="1588720006052" />
     <state x="229" y="23" width="816" height="825" key="find.popup" timestamp="1588719974861">
       <screen x="0" y="23" width="1680" height="972" />
     </state>
