@@ -23,10 +23,11 @@ template = """<!DOCTYPE html>
 </head>
 <body>
 
-<h1>Forecast</h1>
+<h1>Weather <span class="text-primary">Forecast</span></h1>
 <div>
     FORECAST_INFORMATION
 </div>
+<h1>Allergy <span class="text-primary">Forecast</span></h1>
 <img src="allergy_forecast.jpg"></img>
 
 </body>
